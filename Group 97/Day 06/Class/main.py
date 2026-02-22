@@ -58,14 +58,14 @@
 # 4 === 4 * 2
 # 5 === 5 * 2 და ა.შ. ცხრის ჩათვლით ანუ 10-მდე.
 
-# for num in range(10, 1, -1):
-#     print(num)
+for num in range(10, 1, -1):
+    print(num)
 
 # For ციკლი სტრინგისთვის
 
-# animal = 'tiger'
-# for char in animal:
-#     print(char)
+animal = 'tiger'
+for char in animal:
+    print(char)
 
 
 # total = 3
