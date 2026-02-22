@@ -98,7 +98,7 @@ while guess != secret:
 print('სწორია!')
 
 
-# 11. Sololearn +
+# 11. Sololearn + + 
 
 
 
