@@ -82,10 +82,10 @@
 # print(num)
 
 
-# counter = 0
-# while counter < 4:
-#     print(counter)
-#     counter = counter + 1
+counter = 0
+while counter < 4:
+    print(counter)
+    counter = counter + 1
 
 # i = 0
 # while i < 5:
