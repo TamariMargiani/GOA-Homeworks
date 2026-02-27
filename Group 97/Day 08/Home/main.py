@@ -13,7 +13,7 @@
 # for i in range(1, num + 1):
 #     # print(i)
 #     if i % 2 == 0:
-#         total = total + i  # total += 1
+#         total = total + i  # total += i
 # print(total)
 
 
