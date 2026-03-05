@@ -61,6 +61,16 @@
 # print(f"Hello {user} {user1} I am {user2}")
 
 
-list_val = [5, 50, 30, 45, 'Tamari']
-print(list_val)
+# list_val = [5, 50, 30, 45, 'Tamari']
+# print(list_val)
+
+
+
+def sum(x, y):
+    return x + y
+
+print(sum(45, 65))
+
+
+
 
