@@ -66,10 +66,13 @@
 
 
 
-def sum(x, y):
-    return x + y
+def nums (x, y):
+     if x < y:
+          return x
+     else: 
+          return y
 
-print(sum(45, 65))
+print(nums(45, 65))
 
 
 

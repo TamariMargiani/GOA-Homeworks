@@ -154,4 +154,14 @@ print(nums())
 
 
 
+def nums (x, y):
+     if x < y:
+          return x
+     else: 
+          return y
+
+print(nums(45, 65))
+
+
+
 
